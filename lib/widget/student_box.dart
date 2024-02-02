@@ -10,7 +10,7 @@ class StudentBox extends TeacherBox {
     return Text(content,
         style: const TextStyle(
           fontSize: 20,
-          color: Colors.greenAccent,
+          color: Colors.black,
         ));
   }
 
